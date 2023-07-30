@@ -54,3 +54,6 @@ console.log(false || false);
 let nombre = 'jonathan';
 let apellido = 'araujo';
 console.log(nombre + ' ' + apellido);
+// prueba commit
+console.log(1+2);
+

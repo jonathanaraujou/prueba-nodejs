@@ -1,5 +1,4 @@
 console.log("mi prueba");
-console.log(typeof('mi prueba'));
 
 // variables var y let
 var telefonoJonathan = 1123878546;
